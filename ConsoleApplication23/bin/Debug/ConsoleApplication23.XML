@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleApplication23</name>
+    </assembly>
+    <members>
+        <member name="T:ConsoleApplication23.Archer">
+            <summary>
+            лучник
+            </summary>
+        </member>
+        <member name="T:ConsoleApplication23.Unit">
+            <summary>
+            абстрактный класс войнов - Unit
+            </summary>
+        </member>
+        <member name="F:ConsoleApplication23.Unit.health">
+            <summary>
+            параметр здоровье
+            </summary>
+        </member>
+        <member name="F:ConsoleApplication23.Unit.power">
+            <summary>
+            параметр сила
+            </summary>
+        </member>
+        <member name="F:ConsoleApplication23.Unit.iniciativ">
+            <summary>
+            параметр инициатива
+            </summary>
+        </member>
+        <member name="F:ConsoleApplication23.Unit.limitH">
+            <summary>
+            максимальное здоровье
+            </summary>
+        </member>
+        <member name="M:ConsoleApplication23.Unit.toString">
+            <summary>
+            метод позволяет получить данные о экземпляре
+            </summary>
+            <returns>возвращает строку с информацией</returns>
+        </member>
+        <member name="T:ConsoleApplication23.AttackingTower">
+            <summary>
+            подвид башни - атакующая башня
+            </summary>
+        </member>
+        <member name="T:ConsoleApplication23.Tower">
+            <summary>
+            подвид войск башни
+            создать такую башню нельзя    
+            </summary>
+        </member>
+        <member name="T:ConsoleApplication23.Warrior">
+            <summary>
+            воин
+            </summary>
+        </member>
+        <member name="T:ConsoleApplication23.CavarlyArcher">
+            <summary>
+            конный лучник
+            подвид лучника
+            </summary>
+        </member>
+        <member name="T:ConsoleApplication23.Healer">
+            <summary>
+            лекарь
+            наследует все атрибуты и методы класса Unit 
+            наследует интерфейс Help
+            </summary>
+        </member>
+        <member name="T:ConsoleApplication23.Help">
+            <summary>
+            интерфейс Help
+            </summary>
+        </member>
+        <member name="M:ConsoleApplication23.Help.Maxunit">
+            <summary>
+            максимальное число UNITов которым можно помочь
+            </summary>
+            <returns>возвращают максимальное число UNITов которым можно помочь</returns>
+        </member>
+        <member name="M:ConsoleApplication23.Help.MaxHelp">
+            <summary>
+            метод определения максимальной помощи
+            </summary>
+            <returns>максимальное число единиц здоровья которые мы можем отдать</returns>
+        </member>
+        <member name="M:ConsoleApplication23.Help.Help">
+            <summary>
+            метод  количество оказанной помощи
+            </summary>
+            <returns> возвращ. количесво UNITов которым уже помогли</returns>
+        </member>
+        <member name="M:ConsoleApplication23.Help.Help(System.Int32)">
+            <summary>
+            меняет значение количесво UNITов которым уже помогли на h
+            </summary>
+            <param name="h"> скольким Unitам помогли</param>
+        </member>
+        <member name="M:ConsoleApplication23.Help.HealingSombody(ConsoleApplication23.Unit,System.Int32)">
+            <summary>
+            метод для лечащих типов войск
+            </summary>
+            <param name="person">кого нужно вылечить</param>
+            <param name="powerH">на какое количество единиц здоровья</param>
+        </member>
+        <member name="T:ConsoleApplication23.HealingTower">
+            <summary>
+            подвид башни , которвая может оказывать помощь
+            наследует все атрибуты и методы класса Unit 
+            наследует интерфейс Help
+            </summary>
+        </member>
+        <member name="M:ConsoleApplication23.Program.wariorByCriteria(ConsoleApplication23.Unit,ConsoleApplication23.Unit)">
+            <summary>
+             метод сравнивающий инициативы
+            </summary>
+            <param name="a"> воин из одной армии</param>
+            <param name="b"> воин из другой армии</param>
+            <returns> возвращается номер 1 или 2 , в зависимости от того, какой воин будет ходить</returns>
+        </member>
+        <member name="M:ConsoleApplication23.Program.fight1(System.Collections.Generic.List{ConsoleApplication23.Unit}@,System.Collections.Generic.List{ConsoleApplication23.Unit}@,System.IO.StreamWriter,System.Int32@,System.Int32@)">
+            <summary>
+            метод определяющиу действия игрока в зависимости от вида (лечащий или атакующий)
+            </summary>
+            <param name="list1"> армия против которой ходят</param>
+            <param name="list2"> армия из которой ходит игрок</param>
+            <param name="file"> выходной поток (файл, в который будет производиться запись)</param>
+            <param name="l1"> указатели для армии, против которой ходят</param>
+            <param name="l2"> указатель для армии, из которой игрок ходит</param>
+        </member>
+        <member name="M:ConsoleApplication23.Program.Fight12(System.Collections.Generic.List{ConsoleApplication23.Unit}@,System.Collections.Generic.List{ConsoleApplication23.Unit}@,System.IO.StreamWriter)">
+            <summary>
+            метод реализующий алгоритм боя
+            </summary>
+            <param name="list1"> армия 1</param>
+            <param name="list2"> армия 2</param>
+            <param name="file">выходной поток (файл, в который будет производиться запись)</param>
+        </member>
+        <member name="M:ConsoleApplication23.Program.CreateArmy(System.Collections.Generic.List{ConsoleApplication23.Unit}@,System.Int32)">
+            <summary>
+            метод создания армий 
+            </summary>
+            <param name="list">list, куда записывается армия</param>
+            <param name="kolvo">количество бойцов в армии</param>
+        </member>
+        <member name="M:ConsoleApplication23.Program.OutArmy(System.Collections.Generic.List{ConsoleApplication23.Unit}@,System.IO.StreamWriter)">
+            <summary>
+            метод позволяет записать армию в файл и консоль
+            </summary>
+            <param name="list"> армия </param>
+            <param name="file"> выходной поток (файл)</param>
+        </member>
+    </members>
+</doc>

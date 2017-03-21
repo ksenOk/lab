@@ -1,0 +1,29 @@
+c:\users\user\documents\visual studio 2012\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe.config
+c:\users\user\documents\visual studio 2012\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe
+c:\users\user\documents\visual studio 2012\Projects\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.pdb
+c:\users\user\documents\visual studio 2012\Projects\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.exe
+c:\users\user\documents\visual studio 2012\Projects\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.pdb
+C:\Users\s105user04\Desktop\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe.config
+C:\Users\s105user04\Desktop\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.exe
+C:\Users\s105user04\Desktop\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.pdb
+C:\Users\s105user04\Desktop\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe
+C:\Users\s105user04\Desktop\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.pdb
+C:\Users\s105user04\Desktop\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.csprojResolveAssemblyReference.cache
+G:\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe.config
+G:\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.exe
+G:\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.pdb
+G:\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe
+G:\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.pdb
+G:\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.csprojResolveAssemblyReference.cache
+F:\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe.config
+F:\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.exe
+F:\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.pdb
+F:\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.exe
+F:\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.pdb
+F:\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.csprojResolveAssemblyReference.cache
+G:\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.XML
+E:\ConsoleApplication23\ConsoleApplication23\bin\Debug\ConsoleApplication23.XML
+E:\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.csprojResolveAssemblyReference.cache
+E:\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.exe
+E:\ConsoleApplication23\ConsoleApplication23\obj\Debug\ConsoleApplication23.pdb

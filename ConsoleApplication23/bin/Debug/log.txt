@@ -1,0 +1,291 @@
+До боя состав армии:
+Army 1
+Class HealingTower	 Health: 2 	Power: 0 	Iniciativ: 1
+Class CavarlyArcher	 Health: 3 	Power: 3 	Iniciativ: 2
+Class CavarlyArcher	 Health: 3 	Power: 3 	Iniciativ: 2
+Class Cavalery	 Health: 5 	Power: 2 	Iniciativ: 3
+Class Cavalery	 Health: 2 	Power: 1 	Iniciativ: 3
+Class Cavalery	 Health: 4 	Power: 1 	Iniciativ: 3
+Class Archer	 Health: 2 	Power: 2 	Iniciativ: 4
+Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Class Warrior	 Health: 3 	Power: 1 	Iniciativ: 6
+Class Warrior	 Health: 3 	Power: 1 	Iniciativ: 6
+Army 2
+Class AttackingTower	 Health: 5 	Power: 5 	Iniciativ: 1
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Class HealingTower	 Health: 10 	Power: 0 	Iniciativ: 1
+Class CavarlyArcher	 Health: 3 	Power: 3 	Iniciativ: 2
+Class CavarlyArcher	 Health: 3 	Power: 3 	Iniciativ: 2
+Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Class Healer	 Health: 2 	Power: 0 	Iniciativ: 5
+Class Warrior	 Health: 2 	Power: 1 	Iniciativ: 6
+Class Warrior	 Health: 2 	Power: 1 	Iniciativ: 6
+Первым ходит игрок из армии 1:
+Class HealingTower	 Health: 2 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class AttackingTower	 Health: 5 	Power: 5 	Iniciativ: 1
+Ходит против : Class CavarlyArcher	 Health: -2 	Power: 3 	Iniciativ: 2
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 10 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class CavarlyArcher	 Health: 3 	Power: 3 	Iniciativ: 2
+Ходит против : Class Warrior	 Health: -1 	Power: 1 	Iniciativ: 6
+Первым ходит игрок из армии 2:
+Class CavarlyArcher	 Health: 3 	Power: 3 	Iniciativ: 2
+Ходит против : Class CavarlyArcher	 Health: 0 	Power: 3 	Iniciativ: 2
+Первым ходит игрок из армии 2:
+Class CavarlyArcher	 Health: 3 	Power: 3 	Iniciativ: 2
+Ходит против : Class Cavalery	 Health: 1 	Power: 1 	Iniciativ: 3
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 2 	Power: 1 	Iniciativ: 3
+Ходит против : Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 1 	Power: 1 	Iniciativ: 3
+Ходит против : Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Archer	 Health: 2 	Power: 2 	Iniciativ: 4
+Ходит против : Class Healer	 Health: -1 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 1:
+Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 2:
+Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 2:
+Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 1:
+Class Warrior	 Health: 3 	Power: 1 	Iniciativ: 6
+Ходит против : Class AttackingTower	 Health: 4 	Power: 5 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Warrior	 Health: 3 	Power: 1 	Iniciativ: 6
+Ходит против : Class Warrior	 Health: 1 	Power: 1 	Iniciativ: 6
+Первым ходит игрок из армии 1:
+Class HealingTower	 Health: 2 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 5 	Power: 2 	Iniciativ: 3
+Ходит против : Class AttackingTower	 Health: 2 	Power: 5 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 2 	Power: 1 	Iniciativ: 3
+Ходит против : Class AttackingTower	 Health: 1 	Power: 5 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 1 	Power: 1 	Iniciativ: 3
+Ходит против : Class Healer	 Health: 0 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 2:
+Class AttackingTower	 Health: 1 	Power: 5 	Iniciativ: 1
+Ходит против : Class Warrior	 Health: -2 	Power: 1 	Iniciativ: 6
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class CavarlyArcher	 Health: 3 	Power: 3 	Iniciativ: 2
+Ходит против : Class Cavalery	 Health: -1 	Power: 1 	Iniciativ: 3
+Первым ходит игрок из армии 2:
+Class CavarlyArcher	 Health: 3 	Power: 3 	Iniciativ: 2
+Ходит против : Class Warrior	 Health: 0 	Power: 1 	Iniciativ: 6
+Первым ходит игрок из армии 1:
+Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 1:
+Class HealingTower	 Health: 2 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 5 	Power: 2 	Iniciativ: 3
+Ходит против : Class AttackingTower	 Health: -1 	Power: 5 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 1 	Power: 1 	Iniciativ: 3
+Ходит против : Class CavarlyArcher	 Health: 2 	Power: 3 	Iniciativ: 2
+Первым ходит игрок из армии 1:
+Class Archer	 Health: 2 	Power: 2 	Iniciativ: 4
+Ходит против : Class CavarlyArcher	 Health: 1 	Power: 3 	Iniciativ: 2
+Первым ходит игрок из армии 1:
+Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 1:
+Class HealingTower	 Health: 2 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 5 	Power: 2 	Iniciativ: 3
+Ходит против : Class Healer	 Health: -1 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class CavarlyArcher	 Health: 1 	Power: 3 	Iniciativ: 2
+Ходит против : Class Archer	 Health: -1 	Power: 2 	Iniciativ: 4
+Первым ходит игрок из армии 2:
+Class CavarlyArcher	 Health: 2 	Power: 3 	Iniciativ: 2
+Ходит против : Class Cavalery	 Health: -2 	Power: 1 	Iniciativ: 3
+Первым ходит игрок из армии 1:
+Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 1:
+Class HealingTower	 Health: 2 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 5 	Power: 2 	Iniciativ: 3
+Ходит против : Class CavarlyArcher	 Health: -1 	Power: 3 	Iniciativ: 2
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class CavarlyArcher	 Health: 2 	Power: 3 	Iniciativ: 2
+Ходит против : Class HealingTower	 Health: -1 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 5 	Power: 2 	Iniciativ: 3
+Ходит против : Class CavarlyArcher	 Health: 0 	Power: 3 	Iniciativ: 2
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 1:
+Class Healer	 Health: 1 	Power: 0 	Iniciativ: 5
+Первым ходит игрок из армии 1:
+Class Cavalery	 Health: 5 	Power: 2 	Iniciativ: 3
+Ходит против : Class Warrior	 Health: -1 	Power: 1 	Iniciativ: 6
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 19 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из армии 2:
+Class HealingTower	 Health: 9 	Power: 0 	Iniciativ: 1
+Первым ходит игрок из а�
